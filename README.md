@@ -8,7 +8,7 @@ IFMT Maps
 
 ###### Desenvolvedores/Developers
 
-- Alessandro  Teiji - Código e Design / Coding & Design
+- Alessandro  Teiji - Código & Design / Coding & Design
 - Alexandre Torrezam - Ideias & Orientações / Ideas & Orientation 
 - Aroldo Goulart - Mapas & Design / Maps & Design
 
