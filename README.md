@@ -1,9 +1,9 @@
 # IFMT Maps
 
-###### Version
+###### Versão/Version
 0.1
 
-###### Name of Project
+###### Nome do Projeto/Name of Project
 IFMT Maps
 
 ###### Desenvolvedores/Developers
