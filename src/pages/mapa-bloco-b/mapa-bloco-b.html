@@ -1,0 +1,28 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons>
+      <button (click)="GoBackB()" ion-button icon-only color="dark">
+        <ion-icon name="arrow-back"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title>Mapa do Bloco B</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-item>
+    {{level}}
+  </ion-item>
+  <img src={{map}}>
+</ion-content>
+
+<ion-footer>
+  <ion-buttons>
+    <button ion-button large color="dark" (click)="ChangetoB0()">Térreo</button>
+    <button ion-button large color="dark" (click)="ChangetoB1()">Piso 1</button>
+  </ion-buttons>
+
+</ion-footer>

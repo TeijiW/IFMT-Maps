@@ -1,0 +1,44 @@
+<ion-header>
+<ion-navbar>
+<ion-buttons left>
+  <button (click)="GoToInfo()" ion-button icon-only color="dark">
+    <ion-icon name="help-circle"></ion-icon>
+  </button>
+</ion-buttons>
+<ion-title>IFMT Maps</ion-title>
+</ion-navbar>
+</ion-header>
+
+<ion-content>
+<ion-grid>
+<ion-row>
+  <ion-col col-4>
+    <ion-row>
+      <ion-col text-center col-12>
+        <button (click)="GoMapaQuadra()" class="quadrapoli" ion-button color="danger" block large>Quadra <br/> Poliesportiva</button>
+      </ion-col>
+      <ion-col text-center col-12>
+        <button (click)="GoToBlocoF()" ion-button color="primary" block large>Bloco F</button>
+      </ion-col>
+      <ion-col text-center col-12>
+        <button (click)="GoToBlocoE()" ion-button color="secondary" block large>Bloco E</button>
+      </ion-col>
+      <ion-col text-center col-12>
+        <button (click)="GoToBlocoD()" ion-button color="energized" block large>Bloco D</button>
+      </ion-col>
+      <ion-col text-center col-12>
+        <button (click)="GoToBlocoC()" ion-button color="graple" block large>Bloco C</button>
+      </ion-col>
+      <ion-col text-center col-12>
+        <button (click)="GoToBlocoA()" ion-button color="fruit" block large>Bloco A</button>
+      </ion-col>
+    </ion-row>
+  </ion-col>
+  <ion-col col-4></ion-col>
+  <ion-col col-4 text-center>
+    <button class="vertical" (click)="GoToBlocoB()" ion-button color="secprimary" block large>Bloco B</button>
+  </ion-col>
+</ion-row>
+<ion-row><ion-item text-center>ENTRADA</ion-item></ion-row>
+</ion-grid>
+</ion-content>

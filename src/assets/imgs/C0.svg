@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Skedio (http://skedio.shturmsoft.com/) -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="621pt" height="352pt" viewBox="0 0 621 352">
+<g id="layer1">
+	<ellipse fill="none" stroke="#0247FE" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" cx="490.136" cy="279.198" rx="20.664" ry="20.664" />
+	<text x="512.635" y="300.089" transform="matrix(2.2479 0.0000 0.0000 2.2479 -639.7196 -374.4821)" style="font-family:Roboto;font-size:14.00;fill:#000000;stroke:none;">DACC</text>
+	<path fill="none" stroke="#0247FE" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M477.016 286.031C478.932,279.413 481.336,266.049 482.764,266.175 484.437,266.322 483.620,294.106 485.774,294.385 487.874,294.656 493.178,268.995 495.354,269.188 497.118,269.344 497.544,280.782 498.639,286.579 "/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M427.835 81.854L392.180,81.854 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M392.180 81.854C393.666,78.666 394.706,75.197 396.637,72.292 398.620,69.306 400.988,66.666 403.994,64.229 407.570,61.331 412.836,58.488 417.073,56.601 420.753,54.962 424.248,54.312 427.835,53.167 "/>
+	</g>
+	<path fill="none" stroke="#0247FE" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M399.536 79.134C400.141,77.158 400.287,75.092 401.351,73.205 402.559,71.065 406.089,66.817 406.746,67.129 407.599,67.535 402.882,79.899 403.545,80.144 404.296,80.422 411.386,65.079 412.454,65.228 412.806,65.277 412.961,66.195 412.890,67.047 412.708,69.236 408.006,78.461 408.055,78.480 408.105,78.500 411.795,68.991 413.572,66.286 414.591,64.733 416.068,62.750 416.568,62.969 417.538,63.395 413.139,79.043 413.817,79.253 414.263,79.391 416.249,75.465 417.226,72.895 418.569,69.361 419.695,59.732 420.354,59.739 420.680,59.742 421.054,61.514 421.050,62.987 421.042,66.119 417.764,75.763 417.826,77.677 417.841,78.147 417.924,78.519 418.076,78.548 418.258,78.583 418.603,78.057 418.913,77.546 419.635,76.356 420.837,73.573 421.580,71.093 422.528,67.930 423.488,59.970 423.714,59.998 424.010,60.035 421.398,79.274 422.085,79.415 422.519,79.504 424.340,74.834 424.853,72.126 425.456,68.943 424.929,64.992 424.966,61.424 "/>
+	<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M25.200 25.292L428.144,25.292 428.144,180.271 25.200,180.271 Z"/>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M283.498 314.511L283.498,200.800 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M397.209 200.965L283.498,200.635 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M311.926 229.228L311.926,314.511 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M397.209 229.089L311.926,229.387 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M283.498 314.511L311.926,314.511 "/>
+		<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M397.209 200.800L397.209,229.228 "/>
+	</g>
+	<path fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M334.668 246.284L390.857,246.284 390.857,303.101 334.668,303.101 Z"/>
+	<ellipse fill="none" stroke="#000000" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" cx="363.095" cy="274.712" rx="17.057" ry="17.057" />
+	<path fill="none" stroke="#D0EA2B" stroke-width="2.00" stroke-linecap="round" stroke-linejoin="round" d="M350.505 275.381C354.182,271.007 360.724,261.770 361.537,262.258 362.430,262.793 353.402,281.191 353.872,281.422 354.335,281.650 363.458,263.905 364.063,264.186 364.679,264.472 356.867,283.605 357.240,283.761 357.604,283.912 365.385,265.739 365.924,265.946 366.476,266.158 359.782,285.799 360.164,285.934 360.548,286.069 367.753,266.300 368.316,266.482 368.871,266.660 363.324,286.307 363.708,286.421 364.081,286.531 369.684,268.094 370.266,268.243 370.817,268.384 366.897,285.145 367.608,285.357 368.250,285.548 372.725,272.297 373.456,272.437 373.825,272.507 373.863,274.573 373.633,276.037 373.243,278.528 371.182,282.545 369.956,285.800 "/>
+	<text x="149.183" y="282.459" transform="matrix(2.4589 0.0000 0.0000 2.4589 -217.6467 -412.0872)" style="font-family:Roboto;font-size:14.00;fill:#000000;stroke:none;">Bloco C </text>
+	<text x="149.183" y="317.868" transform="matrix(2.4589 0.0000 0.0000 2.4589 -217.6467 -463.7458)" style="font-family:Roboto;font-size:14.00;fill:#000000;stroke:none;">Térreo</text>
+	<path fill="none" stroke="#7F2600" stroke-width="16.00" stroke-linecap="round" stroke-linejoin="round" d="M291.600 211.200L385.200,211.200 385.200,218.400 291.600,218.400 Z"/>
+	<path fill="none" stroke="#7F2600" stroke-width="16.00" stroke-linecap="round" stroke-linejoin="round" d="M291.600 218.400L298.800,218.400 298.800,304.800 291.600,304.800 Z"/>
+</g>
+</svg>

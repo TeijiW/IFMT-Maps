@@ -1,0 +1,64 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons>
+      <button (click)="GoBack()" ion-button icon-only color="dark">
+        <ion-icon name="arrow-back"></ion-icon>
+      </button>
+    </ion-buttons>
+    <ion-title text-center>Bloco A</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content text-center padding="true">
+
+  <ion-list>
+    <ion-list-header>Térreo</ion-list-header>
+    <ion-item>
+      Biblioteca
+    </ion-item>
+    <ion-item>
+      Protocolo
+    </ion-item>
+    <ion-list-header>Piso 1</ion-list-header>
+    <ion-item>
+      Apoio ao Estudante
+    </ion-item>
+    <ion-item>
+      Diretoria de Ensino
+    </ion-item>
+    <ion-item>
+      DAP
+      <br/>(Departamento de Administração 
+      <br/>e Planejamento)
+    </ion-item>
+    <ion-item>
+      DREC
+      <br/>(Diretoria de Relações Empresariais 
+      <br/>e Comunitárias)
+    </ion-item>
+    <ion-list-header>Piso 2</ion-list-header>
+    <ion-item>
+      CGP
+      <br/>(Coordenação de Gestão de Pessoas)
+    </ion-item>
+    <ion-item>
+      CTI
+      <br/>(Coordenação de Tecnologia da Informação)
+    </ion-item>
+    <ion-item>
+      Diretoria Geral
+    </ion-item>
+  </ion-list>
+</ion-content>
+
+
+<ion-footer>
+  <ion-buttons>
+    <button ion-button large block color="dark" block (click)="GoMapA()">
+      Ver mapa do bloco
+    </button>
+  </ion-buttons>
+</ion-footer>
