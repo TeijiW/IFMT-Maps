@@ -1,7 +1,7 @@
 # IFMT Maps
 
 ###### Versão/Version
-0.1
+1.0
 
 ###### Nome do Projeto/Name of Project
 IFMT Maps
